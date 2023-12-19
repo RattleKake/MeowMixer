@@ -9,3 +9,4 @@ S - Button B
 
 Arrow keys - Some more buttons or something idk
 
+(Just a heads up, if you're getting "Execution failed for task ':desktop:DesktopLauncher.main()'." You have to run the "desktop:run" gradle command.)
